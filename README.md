@@ -6,4 +6,6 @@ This project is a Chat App built using React, Socket.io, custom hooks, and custo
 - Custom hooks for managing state and logic reuse
 - Custom context for efficient data sharing across components
 
-
+# Installation
+- run npm i  &&  npm start for client side.
+- run npm i  &&  npm run devStart for server side.
